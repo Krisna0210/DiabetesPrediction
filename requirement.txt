@@ -1,0 +1,4 @@
+pandas==2.0.2
+pip==23.1.2
+streamlit
+scikit-learn
